@@ -1,0 +1,6 @@
+config~=0.5.1
+setuptools~=70.3.0
+openai~=1.50.2
+python-dotenv~=1.0.1
+ipdb~=0.13.13
+telegram~=0.0.1
